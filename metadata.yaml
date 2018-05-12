@@ -1,0 +1,36 @@
+_repo: Facecies-et-motz-subtilz-d-aucuns-excellens-esprits-et-tresnobles-seigneurs_25382
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Du Haillan, Bernard de Girard, seigneur
+    deathdate: 1610
+    gutenberg_agent_id: '31294'
+    url: http://www.gutenberg.org/2009/agents/31294
+    wikipedia: http://fr.wikipedia.org/wiki/Bernard_de_Girard
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Domenichi, Lodovico
+    birthdate: 1515
+    deathdate: 1564
+    gutenberg_agent_id: '31295'
+    url: http://www.gutenberg.org/2009/agents/31295
+    wikipedia: http://fr.wikipedia.org/wiki/Lodovico_Domenichi
+description: ''
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25382'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anecdotes'
+- !lcsh 'Italian wit and humor'
+- !lcc 'PQ'
+title: Facecies et motz subtilz, d'aucuns excellens esprits et tresnobles seigneurs
+url: http://www.gutenberg.org/ebooks/25382
