@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31295
     wikipedia: http://fr.wikipedia.org/wiki/Lodovico_Domenichi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25382#Facecies-et-motz-subtilz-d-aucuns-excellens-esprits-et-tresnobles-seigneurs
 gutenberg_bookshelf: FR Humour
 gutenberg_issued: '2008-05-07'
 gutenberg_type: Text
